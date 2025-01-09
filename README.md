@@ -1,2 +1,2 @@
-# People-Bank
+# People Bank
 Webapp for storing contacts
